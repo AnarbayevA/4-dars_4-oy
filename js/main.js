@@ -80,7 +80,7 @@ renderMovies(normolizeMovies, elDiv)
 
 // renderMovies(moviesPieces, elDiv)
 
-elButton.addEventListener("input", function(event){
+elButton.addEventListener("click", function(event){
     event.preventDefault()
     
     //Search with name
